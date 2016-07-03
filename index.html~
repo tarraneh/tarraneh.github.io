@@ -10,4 +10,3 @@ layout: index
   </li>
   {% endfor %}
 </ul>
-<b>Here is a test.</b>
