@@ -1,1 +1,12 @@
-Well, hello there, Sebastian. I thought you might stop by. Want to play a little game? Why don't you look outside your window...
+---
+layout: index
+---
+
+<ul class="posts">
+  {% for post in site.posts %}
+  <li>
+    <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date_to_string }} </small>
+    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
