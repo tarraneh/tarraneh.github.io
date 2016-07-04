@@ -1,57 +1,93 @@
-Scribble
-========
+# [HTML5 Boilerplate](https://html5boilerplate.com)
 
-A Jekyll theme. [Want a demo? click and read instruction. :point_left:](http://scribble.muan.co/2013/05/06/scribble-the-jekyll-theme/)
-<br />
-[More themes](https://github.com/muan/muan.github.com/releases).
+[![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate)
+[![devDependency Status](https://david-dm.org/h5bp/html5-boilerplate/dev-status.svg)](https://david-dm.org/h5bp/html5-boilerplate#info=devDependencies)
 
-![screenshot](https://cloud.githubusercontent.com/assets/1153134/11014801/12c7940a-853e-11e5-9f7b-87325c9bc695.png)
+HTML5 Boilerplate is a professional front-end template for building
+fast, robust, and adaptable web apps or sites.
 
-There is no clever design philosophy to talk about, I tried to find something to work with, and 'scribble' came to my mind.
+This project is the product of many years of iterative development and
+combined community knowledge. It does not impose a specific development
+philosophy or framework, so you're free to architect your code in the
+way that you want.
 
-This theme uses Open Sans powered by Google Web Fonts, and was written in plain HTML, SCSS & CoffeeScript, though .scss & .coffee files wouldn't be included in the theme.
+* Homepage: [https://html5boilerplate.com](https://html5boilerplate.com)
+* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+* Twitter: [@h5bp](https://twitter.com/h5bp)
 
-The theme is mobile optimized but I did not check browser compatibility. It looks great in Chrome, Safari and Firefox though.
 
----
+## Quick start
 
-### Get started
+Choose one of the following options:
 
-1. [Fork the repository](https://github.com/muan/scribble/fork).
-2. Clone the repository to your computer.<br /> `git clone https://github.com/username/scribble`
-3. `bundle install`
-4. **Using older versions of Jekyll**<br />
-  Build and run Jekyll using `jekyll --server --auto`.<br />
-  **Using [Jekyll 1.0](http://blog.parkermoore.de/2013/05/06/jekyll-1-dot-0-released/)**<br />
-  Build Jekyll using `jekyll build`.<br />
-  Then run Jekyll using `jekyll serve --watch`, go to http://localhost:4000 for your site.
+1. Download the latest stable release from
+   [html5boilerplate.com](https://html5boilerplate.com/) or create a
+   custom build using [Initializr](http://www.initializr.com).
+2. Clone the git repo — `git clone
+   https://github.com/h5bp/html5-boilerplate.git` - and checkout the
+   [tagged release](https://github.com/h5bp/html5-boilerplate/releases)
+   you'd like to use.
 
----
 
-### Make it yours
+## Features
 
-1. I have extracted most user specific information to `_config.yml`, you should be able to set up almost everything from it.
-2. Change about.md for blog intro.
-3. For domain settings, see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages).
+* HTML5 ready. Use the new elements with confidence.
+* Designed with progressive enhancement in mind.
+* Includes:
+  * [`Normalize.css`](https://necolas.github.com/normalize.css/)
+    for CSS normalizations and common bug fixes
+  * [`jQuery`](https://jquery.com/) via CDN, with a local fallback
+  * A custom build of  [`Modernizr`](https://modernizr.com/) for feature
+    detection
+  * [`Apache Server Configs`](https://github.com/h5bp/server-configs-apache)
+    that, among other, improve the web site's performance and security
+* Placeholder CSS Media Queries.
+* Useful CSS helper classes.
+* Default print styles, performance optimized.
+* An optimized version of the Google Universal Analytics snippet.
+* Protection against any stray `console` statements causing JavaScript
+  errors in older browsers.
+* "Delete-key friendly." Easy to strip out parts you don't need.
+* Extensive inline and accompanying documentation.
 
----
 
-### Options
+## Browser support
 
-When writing a post, there are 3 options you can add to the header.
+* Chrome *(latest 2)*
+* Edge *(latest 2)*
+* Firefox *(latest 2)*
+* Internet Explorer 8+
+* Opera *(latest 2)*
+* Safari *(latest 2)*
 
-1. **disqus: y**<br />
-  If disqus is set to 'y', at the end of the post there will be a disqus thread, just like this one. To use disqus, you MUST [set up your own disqus account](http://disqus.com/).
+*This doesn't mean that HTML5 Boilerplate cannot be used in older browsers,
+just that we'll ensure compatibility with the ones mentioned above.*
 
-2. **share: y**<br />
-  An option for showing tweet and like button under a post.
+If you need legacy browser support (IE 6+, Firefox 3.6+, Safari 4+) you
+can use [HTML5 Boilerplate v4](https://github.com/h5bp/html5-boilerplate/tree/v4),
+but is no longer actively developed.
 
-3. **date**: 2013-05-06 18:07:17<br />
-  Date is not a required header since Jekyll reads the file name for date, this was added in only for the **signoff time**. (as shown at the end of this post) If you don't want the signoff time, go into `/includes/signoff.html` remove the `<span>`, and remove `{% include signoff.html %}` from `/layouts/post.html`.
 
----
+## Documentation
 
-### The end
+Take a look at the [documentation table of contents](dist/doc/TOC.md).
+This documentation is bundled with the project, which makes it readily
+available for offline reading and provides a useful starting point for
+any documentation you want to write about your project.
 
-Like it? [Tell me](http://twitter.com/muanchiou).<br/>
-Question? [Use GitHub Issues](https://github.com/muan/scribble/issues).
+
+## Contributing
+
+Hundreds of developers have helped make the HTML5 Boilerplate what it is
+today. Anyone and everyone is welcome to [contribute](CONTRIBUTING.md),
+however, if you decide to get involved, please take a moment to review
+the [guidelines](CONTRIBUTING.md):
+
+* [Bug reports](CONTRIBUTING.md#bugs)
+* [Feature requests](CONTRIBUTING.md#features)
+* [Pull requests](CONTRIBUTING.md#pull-requests)
+
+
+## License
+
+The code is available under the [MIT license](LICENSE.txt).
