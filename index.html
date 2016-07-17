@@ -130,7 +130,7 @@
 
 								<b>Installing OS X</b><br><br>
 
-								You've made it to the fun part. At this point in the game, you'll need to create a bootable USB containing an OS X El Capitan install which you can purchase from the Apple store or download as an update by using your pre-existing Mac computer. You'll also need to download the latest version of <a href="https://sourceforge.net/projects/cloverefiboot/">Clover EFI Bootloader</a>. There's a great guide for installing OS X using Clover <a href="http://www.tonymacx86.com/threads/how-to-install-os-x-yosemite-using-clover.144426/">here</a>. Once you have Clover installed, you need to make the appropriate changes to the config.plist file (allowing for audio injection, patching your motherboard to allow booting in OS X). There are also a number of kexts (kernel extensions; essentially drivers) that you'll need to include as part of the Clover configuration. These include:<br><br>
+								You've made it to the fun part. At this point in the game, you'll need to create a bootable USB containing an OS X El Capitan install which you can purchase from the Apple store or download as an update by using your pre-existing Mac computer. You'll also need to download the latest version of <a href="https://sourceforge.net/projects/cloverefiboot/">Clover EFI Bootloader</a>. There's a great guide for installing OS X using Clover <a href="http://www.tonymacx86.com/threads/how-to-install-os-x-yosemite-using-clover.144426/">here</a>. Once you have Clover installed, you need to make the appropriate changes to the config.plist file (allowing for audio injection, patching your motherboard to allow booting inro OS X). There are also a number of kexts (kernel extensions; essentially drivers) that you'll need to include as part of the Clover configuration. These include:<br><br>
 								<ul>
 								<li>USBInjectAll.kext</li>
 								<li>AppleALC.kext</li>
@@ -138,8 +138,11 @@
 								<li>FakeSMC.kext</li>
 								</ul>
 
-								These kexts provide basically the necessary 'bare-bones' of your build. Once your computer is up and running, you'll likely find that there are a number of other kexts you'll have to track down in order to get things like audio, iMessenger, and the like, fully-functioning. This is really where your Hackintosh will ask the most of you. 
+								These kexts provide basically the necessary 'bare-bones' of your build. Once your computer is up and running, you'll likely find that there are a number of other kexts you'll have to track down in order to get things like audio, iMessenger, and the like, fully-functioning. This is really where your Hackintosh will ask the most of you. Carefully editing your config.plist file and installing the appropriate kexts hold the key to unlocking your Hackintosh. <br><br>
 
+								<center><img src="hack3.png" style="width:400px"></center>
+
+								I've obviously glossed over many of the subtleties which turn out to be rather important when it comes to your build (see config.plist edits!), but there are truly plenty of guides and resources out there to get you going (among others, I also recommend <a href="reddit.com/r/hackintosh">r/hackintosh</a> on <a href="reddit.com">reddit</a>. At the end of the day, if you're looking to spend a minimal amount of time troubleshooting your computer, and indeed, if you are relying on your computer for sensitive work related processes, a Hackintosh may not be the best idea. It's important to keep in mind that Hackintosh computers are ultimately a series of hacks developed to run Apple software on hardware that was not designed to do so. There are bound to be issues along the way. That being said, if you're committed to the pursuit, Hackintosh computers really do allow for a cheaper and more customizable alternative to traditional Mac computers. 
 
 
 
