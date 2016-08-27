@@ -1431,7 +1431,7 @@ body {
 /* Type */
 
 	body, input, select, textarea {
-		color: #646464;
+		color: #f4f4f4;;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 11pt;
 		font-weight: 400;
@@ -1983,7 +1983,7 @@ body {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #646464;
+			color: #f4f4f4;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
