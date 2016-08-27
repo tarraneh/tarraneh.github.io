@@ -1414,7 +1414,7 @@ body {
 	}
 
 	body {
-	    background-color: #5D737E;
+		background: #5D737E;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1431,7 +1431,7 @@ body {
 /* Type */
 
 	body, input, select, textarea {
-		color: #f4f4f4;;
+		color: #646464;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 11pt;
 		font-weight: 400;
@@ -1983,7 +1983,7 @@ body {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #f4f4f4;
+			color: #646464;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
