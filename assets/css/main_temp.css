@@ -2593,7 +2593,7 @@ body {
 			left: -2em;
 			margin: -2em 0 2em 0;
 			position: relative;
-			width: calc(100% + 3em);
+			width: calc(100%);
 		}
 
 			.post > header .title {
