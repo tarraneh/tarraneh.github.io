@@ -3020,14 +3020,13 @@ body {
 				padding:0;
 				border-left: solid 1px rgba(160, 160, 160, 0.3);
 				line-height: 1;
-
+				margin-left: 1em;
+				padding-left: 1em;
 			}
 
 				#header .links ul li:first-child {
 					text-align: center;
 					border-left: 0;
-					margin-left: 0;
-					padding-left: 0;
 				}
 
 				#header .links ul li a {
