@@ -3005,6 +3005,7 @@ body {
 			}
 
 		#header .links {
+			text-align: center;
 			-moz-flex: 1;
 			-webkit-flex: 1;
 			-ms-flex: 1;
