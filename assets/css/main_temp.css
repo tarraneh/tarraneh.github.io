@@ -3032,6 +3032,7 @@ body {
 				}
 
 				#header .links ul li a {
+					text-align: center;
 					border-bottom: 0;
 					font-family: "Raleway", Helvetica, sans-serif;
 					font-size: 0.7em;
