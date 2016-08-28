@@ -2439,7 +2439,7 @@ body {
 
 					ul.posts article header .published {
 						display: block;
-						font-family: "Raleway", Helvetica, sans-serif;
+						font-family: FontAwesome;
 						font-size: 0.6em;
 						font-weight: 400;
 						letter-spacing: 0.25em;
