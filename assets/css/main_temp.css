@@ -3000,6 +3000,7 @@ body {
 			line-height: inherit;
 			padding: 0 0 0 1.5em;
 			white-space: nowrap;
+			text-align:center;
 		}
 
 			#header h1 a {
