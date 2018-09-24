@@ -10,11 +10,11 @@ Though I'm east-coast bound for the time being, I'm a desert dweller at heart, h
 
 ## Contact Me
 
-Harvard-Smithsonian Center for Astrophysics
-60 Garden Street, MS-10
-Cambridge, MA 02138
+Harvard-Smithsonian Center for Astrophysics  
+60 Garden Street, MS-10  
+Cambridge, MA 02138  
 
-E-mail: [teftekhari@cfa.harvard.edu](mailto:teftekhari@cfa.harvard.edu)
+E-mail: [teftekhari@cfa.harvard.edu](mailto:teftekhari@cfa.harvard.edu)  
 Office: P-232
 
 
