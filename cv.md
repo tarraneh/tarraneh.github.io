@@ -1,10 +1,10 @@
 ---
-layout: 
-title: Contact
+layout: page
+title: CV
 description: 
 ---
 ## Contact
-E-mail: [teftekhari@cfa.harvard.edu](mailto:teftekhari@cfa.harvard.edu)
+E-mail: [teftekhari@cfa.harvard.edu](teftekhari@cfa.harvard.edu)
 
 Address: Harvard-Smithsonian Center for Astrophysics
 60 Garden Street, MS-10
