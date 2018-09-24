@@ -8,5 +8,13 @@ I am a graduate student at the Harvard-Smithsonian Center for Astrophysics. My r
 
 Though I'm east-coast bound for the time being, I'm a desert dweller at heart, hailing from the enchanted mountains of Northern New Mexico.
 
+## Contact Me
+
+Harvard-Smithsonian Center for Astrophysics
+60 Garden Street, MS-10
+Cambridge, MA 02138
+
+E-mail: [teftekhari@cfa.harvard.edu](mailto:teftekhari@cfa.harvard.edu)
+Office: P-232
 
 
