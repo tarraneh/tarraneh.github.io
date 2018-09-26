@@ -25,14 +25,14 @@ One of the absolute best resources out there for building your Hackintosh and ch
 
 <strong>Installing OS X</strong>
 
-<p>You've made it to the fun part. At this point in the game, you'll need to create a bootable USB containing an OS X El Capitan install which you can purchase from the Apple store or download as an update by using your pre-existing Mac computer. You'll also need to download the latest version of [<a href="https://sourceforge.net/projects/cloverefiboot/">Clover EFI Bootloader</a>. There's a great guide for installing OS X using Clover  <a href="http://www.tonymacx86.com/threads/how-to-install-os-x-yosemite-using-clover.144426/">here</a>. Once you have Clover installed, you need to make the appropriate changes to the config.plist file (allowing for audio injection, patching your motherboard to allow booting into OS X). There are also a number of kexts (kernel extensions; essentially drivers) that you'll need to include as part of the Clover configuration. These include:</p>
+<p>You've made it to the fun part. At this point in the game, you'll need to create a bootable USB containing an OS X El Capitan install which you can purchase from the Apple store or download as an update by using your pre-existing Mac computer. You'll also need to download the latest version of <a href="https://sourceforge.net/projects/cloverefiboot/">Clover EFI Bootloader</a>. There's a great guide for installing OS X using Clover  <a href="http://www.tonymacx86.com/threads/how-to-install-os-x-yosemite-using-clover.144426/">here</a>. Once you have Clover installed, you need to make the appropriate changes to the config.plist file (allowing for audio injection, patching your motherboard to allow booting into OS X). There are also a number of kexts (kernel extensions; essentially drivers) that you'll need to include as part of the Clover configuration. These include:</p>
 
-                               <p> <ul>
-                                <li>USBInjectAll.kext</li>
-                                <li>AppleALC.kext</li>
-                                <li>IntelMausiEthernet.kext</li>
-                                <li>FakeSMC.kext</li>
-                                </ul></p>
+                               <p> 
+                                *USBInjectAll.kext
+                                *AppleALC.kext
+                                *IntelMausiEthernet.kext
+                                *FakeSMC.kext
+                                </p>
 
 <p>These kexts provide basically the necessary 'bare-bones' of your build. Once your computer is up and running, you'll likely find that there are a number of other kexts you'll have to track down in order to get things like audio, iMessenger, and the like, fully-functioning. This is really where your Hackintosh will ask the most of you. Carefully editing your config.plist file and installing the appropriate kexts hold the key to unlocking your Hackintosh. </p>
 
