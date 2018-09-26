@@ -1,7 +1,7 @@
 ---
-title: This is the third test post.
-description: This is the third test post.
-header: Test Post 3
+title: A lean, mean Hackintosh-ing machine
+description: How to Build a Hackintosh Computer
+header: A lean, mean Hackintosh-ing machine
 ---
 
 <p>Hackintosh computers have been online for nearly a decade now (since the switch to Intel processors), allowing users to implement Mac OS X on non-Apple branded hardware, achieving performance close to or comparable to the latest Mac Pros for a fraction of the cost. In addition to installing Mac OS X on a custom-configured computer -- optimized for your needs -- dual-booting Windows on a Hackintosh allows for your computer to moonlight as a high-end gaming machine (depending on your hardware, of course).</p>
@@ -12,7 +12,7 @@ header: Test Post 3
 
 <p>The key thing to remember in building your Hackintosh is that the end goal requires installing software on non-native hardware, or hardware that simply wasn't designed with this particular function in mind. Rectifying this discord is best done by carefully selecting your parts based on whether or not they will be supportd by Mac OS X. Often, hardware which is technically supported might prove to be significantly more difficult than the alternative. Hackintosh aficionados will, for instance, generally suggest you avoid AMD CPUs and turn instead to the more agreeable 6th Generation Intel Core (Skylake) CPUs. That's not to say that you're out of luck with an AMD CPU, but you may have a harder time getting things going. In other words, your mileage may vary. </p>
 
-<p>One of the absolute best resources out there for building your Hackintosh and choosing compatible components -- which I would be remiss not to mention -- is [TonyMacx86.com](http://www.tonymacx86.com/). There, you'll find not only extensive guides and lists specifiying Hackintosh compatible hardware, but also, a community of like-minded brave souls who will more likely than not have encountered each and every obstacle you will undoubtedly meet along the way.</p> 
+<p>One of the absolute best resources out there for building your Hackintosh and choosing compatible components -- which I would be remiss not to mention -- is [TonyMacx86.com](http://www.tonymacx86.com/) <a href="http://www.tonymacx86.com/" target="_blank">testlink</a>. There, you'll find not only extensive guides and lists specifiying Hackintosh compatible hardware, but also, a community of like-minded brave souls who will more likely than not have encountered each and every obstacle you will undoubtedly meet along the way.</p> 
 
 
 <p>I won't go into the details of my build (feel free to e-mail me if you're interested), but I will mention that if you're planning on dual-booting, it is generally advised that you install each operating system on separate Solid State Drives (SSD). This is not only the easiest way to dual-boot, but it's also the cleanest and less prone to catastrophic failure-way. And of course, while you don't need to use SSDs in the place of Hard Disk Drives (HDDs), installing your OS on an SSD will decrease your bootup time substantially. Similarly, any apps that you install on the SSD will bootup much faster than they would otherwise. That being said, you can use SSDs to install your operating systems, and then opt for an HDD (or two or three) for general storage purposes.</p>
