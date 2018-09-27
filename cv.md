@@ -4,7 +4,7 @@ title: CV
 description: 
 ---
 
-<h2>Education</h2>
+<h3>Education</h3>
 2015 - Present &nbsp; | Ph.D. Astronomy and Astrophysics, <i>Harvard University</i><br>
 2017 &nbsp; | A.M. Astronomy and Astrophysics, <i>Harvard University</i><br>
 2014 &nbsp; | B.S. Astrophysics, minor in mathematics, <i>University of New Mexico</i><br><br>
@@ -35,37 +35,37 @@ description:
 <i>Long Wavelength Array Telescope Operator</i><br>
 <p class="tab">2013 - 2015 </p><br>
 
-<b>Teaching</b><br><br>
+<h3>Teaching</h3>
 2018 | Head Teaching Fellow, <i>Harvard University</i><br>
 The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 <br><br>
 2017 | Teaching Fellow, <i>Harvard University</i><br>
 The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 
-<b>Awards</b><br><br>
+<h3>Awards</h3>
 2017 | National Science Foundation GRFP Honorable Mention<br>
 2017 | Bok Center Certificate of Distinction in Teaching, Harvard University (SPU 22)<br>
 2014 | New Mexico Space Grant Consortium Scholarship<br>
 2013 | University of New Mexico Undergraduate Research Award
 
-<b>Telescope Time Allocations (as PI)</b><br><br>
+<h3>Telescope Time Allocations (as PI)</h3>
 Very Large Array | 6 hr<br>
 Chandra &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 105 ks<br>
 ALMA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 15 hr
 
 
-<b>Professional Service</b><br><br>
+<h3>Professional Service</h3>
 2017 | Facilitator, Chandra Cycle 19 Peer Review
 
 
 
-<b>Professional Development</b><br><br>
+<h3>Professional Development</h3>
 2017 | Jerusalem Winter School in Theoretical Physics, The Physics of Astronomical Transients<br>
 2017 | La Serena School of Data Science, Applied Tools for Data Driven Sciences<br>
 2014, 2016 | NRAO Synthesis Imaging Workshop
 
 
-<b>Outreach Activities</b><br><br>
+<h3>Outreach Activities</h3>
 2018 | Local Organizing Committee, <i>ComSciCon</i><br>
 2018 | Poster Judge, <i>National Collegiate Research Conference</i><br>
 2017 | Graduate Student Panel, <i> Wellesley College</i><br>
@@ -78,13 +78,13 @@ ALMA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 2013 - 2015 | Telescope Operator, <i>UNM Campus Observatory</i>
 
 
-<b>Computer Skills</b><br><br>
-Langauges | Python, Latex, MATLAB, HTML, CSS<br>
+<h3>Computer Skills</h3>
+Langauges | Python, Latex, HTML, CSS<br>
 Software | CASA, CIAO, XSPEC, DS9, Genesys RF and Microwave Design<br>
 
 
 
-<b>Publications</b><br><br>
+<h3>Publications</h3>
 
 
 Unveiling the Engines of Fast Radio Bursts, Super-Luminous Supernovae, and Gamma-Ray Bursts<br>
@@ -202,7 +202,7 @@ Digital Signal Processing using Stream High Performance Computing: A 512-input B
 <i>Kocz et al. 2015</i> | JAI | <a href="http://arxiv.org/abs/1411.3751v2">arXiv:1411.3751v2</a>
 
 
-<b>Presentations</b><br><br>
+<h3>>Presentations</h3>
 Uncovering the Mystery of Fast Radio Bursts<br>
 <i>T. Eftekhari et al.</i> | 2018 | New Hampshire Astronomical Society
 <br><br>
