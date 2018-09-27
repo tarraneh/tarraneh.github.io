@@ -174,22 +174,22 @@ Design and characterization of the Large-Aperture Experiment to Detect the Dark 
 Bifrost: a Python/C++ Framework for High-Throughput Stream Processing in Astronomy<br>
 <i>Cranmer et al. 2017 </i> | JAI | <a href="https://arxiv.org/abs/1708.00720">arXiv:1708.00720</a>
 
-<br><br>
+
 Associating Fast Radio Bursts to Their Host Galaxies<br>
 <i> <b>T. Eftekhari</b> and E. Berger 2017 </i> | ApJ | <a href="https://arxiv.org/abs/1705.02998">arxiv: 1705.02998</a>
-<br><br>
+
 Empirical constraints on the origin of fast radio bursts: volumetric rates and host galaxy demographics as a test of millisecond magnetar connection<br>
 <i>Nicholl et al. 2017</i> | ApJ | <a href="https://arxiv.org/abs/1704.00022">arXiv:1704.00022</a>
-<br><br>
+
 A Low Frequency Survey of Giant Pulses from the Crab Pulsar<br>
 <i> <b>T. Eftekhari</b> et al. 2016</i> | ApJ | <a href="http://arxiv.org/abs/1607.08612">arXiv:1607.08612</a>
-<br><br>
+
 Bayesian constraints on the global 21-cm signal from the Cosmic Dawn<br>
 <i>Bernardi et al. 2016</i> | ApJ | <a href="http://arxiv.org/abs/1606.06006v1">arXiv:1606.06006</a>
-<br><br>
+
 Pulsar Observations Using the First Station of the Long Wavelength Array and the LWA Pulsar Data Archive<br>
 <i>Stovall et al. 2015</i> | ApJ | <a href="http://arxiv.org/abs/1411.3751v2">arXiv:1411.3751v2</a>
-<br><br>
+
 Digital Signal Processing using Stream High Performance Computing: A 512-input Broadband Correlator for Radio Astronomy<br>
 <i>Kocz et al. 2015</i> | JAI | <a href="http://arxiv.org/abs/1411.3751v2">arXiv:1411.3751v2</a>
 
