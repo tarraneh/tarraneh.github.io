@@ -33,7 +33,7 @@ description:
 <i>Heliospheric Faraday Rotation from the Crab Pulsar</i>
 <hr width="70%" color="#eee" align="left">
 <i>Long Wavelength Array Telescope Operator</i><br>
-2013 - 2015 </p><br>
+2013 - 2015 <br>
 
 <h3>Teaching</h3>
 2018 | Head Teaching Fellow, <i>Harvard University</i><br>
