@@ -7,7 +7,7 @@ description:
 <b>Education</b><br><br>
 2015 - Present &nbsp; | Ph.D. Astronomy and Astrophysics, <i>Harvard University</i><br>
 2017 &nbsp; | A.M. Astronomy and Astrophysics, <i>Harvard University</i><br>
-2014 &nbsp; | B.S. Astrophysics, minor in mathematics, <i>magna cum laude</i>, <i>University of New Mexico</i><br><br>
+2014 &nbsp; | B.S. Astrophysics, minor in mathematics, <i>University of New Mexico</i><br><br>
 
 <b>Experience and Employment</b><br><br>
 <i>Graduate Research Assistant, Harvard University</i>
