@@ -3,7 +3,7 @@ layout: page
 title: CV
 description: 
 ---
-
+## CV
 <h3>Education</h3>
 2015 - Present | Ph.D. Astronomy and Astrophysics, <i>Harvard University</i><br>
 2017 | A.M. Astronomy and Astrophysics, <i>Harvard University</i><br>
