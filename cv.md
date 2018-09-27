@@ -10,15 +10,15 @@ description:
 2014 | B.S. Astrophysics, minor in mathematics, <i>University of New Mexico</i>
 
 <h3>Experience and Employment</h3>
-<i>Graduate Research Assistant, Harvard University</i>
+<i>Graduate Research Assistant, Harvard University</i><br>
 2015 - 2018 | Masters Project, Advisor: Edo Berger<br>
 <i>Longterm Multi-wavelength Monitoring of the Tidal Disruption Event Swift J164449.3+573451</i>
-<hr width="70%" align="left">
-<i>Content Developer, HarvardX</i>
+<hr width="70%" height="1px" align="left">
+<i>Content Developer, HarvardX</i><br>
 2017 - 2018 | Super-Earths and Life Online Course
 <hr width="70%" align="left">
 
-<i>Laboratory Assistant, Harvard University</i>
+<i>Laboratory Assistant, Harvard University</i><br>
 2015 - 2016 | Advisor: Lincoln Greenhill<br>
 <i>Development of a Low-Noise Amplifier for the Large Aperture Experiment to Detect the Dark Ages</i>
 <hr width="70%" align="left">
