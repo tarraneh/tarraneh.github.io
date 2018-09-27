@@ -13,7 +13,7 @@ description:
 <i>Graduate Research Assistant, Harvard University</i><br>
 2015 - 2018 | Masters Project, Advisor: Edo Berger<br>
 <i>Late-time Multi-wavelength Monitoring of the Tidal Disruption Event Swift J164449.3+573451</i>
-<hr width="70%" height="1px" color="#333" align="left">
+<hr width="70%" height="1px" color="#eee" align="left">
 <i>Content Developer, HarvardX</i><br>
 2017 - 2018 | Super-Earths and Life Online Course
 <hr width="70%" align="left">
