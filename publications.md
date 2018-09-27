@@ -29,7 +29,7 @@ The Binary Neutron Star event LIGO/VIRGO GW170817 a hundred and sixty days after
 
 
 Radio Monitoring of the Tidal Disruption Event Swift J164449.3+573451. III. Late-time Jet Energetics and a Deviation from Equipartition<br>
-<i><b>T. Eftekhari et al. 2018</i></b> | ApJ |  <a href="https://arxiv.org/abs/1710.07289">arXiv:1710.07289</a>
+<i><b>T. Eftekhari et al. 2018</b></i> | ApJ |  <a href="https://arxiv.org/abs/1710.07289">arXiv:1710.07289</a>
 
 
 The Combined Ultraviolet, Optical, and Near-Infrared Light Curves of the Kilonova Associated with the Binary Neutron Star Merger GW170817: Unified Data Set, Analytic Models, and Physical Implications<br>
@@ -102,7 +102,7 @@ Empirical constraints on the origin of fast radio bursts: volumetric rates and h
 <i>Nicholl et al. 2017</i> | ApJ | <a href="https://arxiv.org/abs/1704.00022">arXiv:1704.00022</a>
 
 A Low Frequency Survey of Giant Pulses from the Crab Pulsar<br>
-<i> <b>T. Eftekhari et al. 2016</i></b> | ApJ | <a href="http://arxiv.org/abs/1607.08612">arxiv:1607.08612</a>
+<i> <b>T. Eftekhari et al. 2016</b></i> | ApJ | <a href="http://arxiv.org/abs/1607.08612">arxiv:1607.08612</a>
 
 Bayesian constraints on the global 21-cm signal from the Cosmic Dawn<br>
 <i>Bernardi et al. 2016</i> | ApJ | <a href="http://arxiv.org/abs/1606.06006v1">arXiv:1606.06006</a>
