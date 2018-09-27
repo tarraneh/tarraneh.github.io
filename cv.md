@@ -7,7 +7,7 @@ description:
 <h3>Education</h3>
 2015 - Present | Ph.D. Astronomy and Astrophysics, <i>Harvard University</i><br>
 2017 | A.M. Astronomy and Astrophysics, <i>Harvard University</i><br>
-2014 | B.S. Astrophysics, minor in mathematics, <i>University of New Mexico</i><br><br>
+2014 | B.S. Astrophysics, minor in mathematics, <i>University of New Mexico</i>
 
 <h3>Experience and Employment</h3>
 <i>Graduate Research Assistant, Harvard University</i>
@@ -89,88 +89,82 @@ Software | CASA, CIAO, XSPEC, DS9, Genesys RF and Microwave Design<br>
 
 Unveiling the Engines of Fast Radio Bursts, Super-Luminous Supernovae, and Gamma-Ray Bursts<br>
 <i>Margalit et al. 2018</i> | Submitted to MNRAS | <a href="https://arxiv.org/abs/1806.05690">arXiv:1806.05690 </a>
-<br><br>
 
 Spitzer Space Telescope Infrared Observations of the Binary Neutron Star Merger GW170817<br>
 <i>Villar et al. 2018</i> | ApJL | <a href="https://arxiv.org/abs/1805.08192">arXiv:1805.08192</a>
-<br><br>
+
 
 A Decline in the X-ray through Radio Emission from GW170817 Continues to Support an Off-Axis Structured Jet<br>
 <i>Alexander et al. 2018</i> | ApJL | <a href="https://arxiv.org/abs/1805.02870">arXiv:1805.02870</a>
-<br><br>
+
 Associating Fast Radio Bursts with Extragalactic Radio Sources: General Methodology and a Search for a Counterpart to FRB 170107<br>
 <i><b>T. Eftekhari et al. 2018</b></i> | ApJ | <a href="https://arxiv.org/abs/1802.09525">arXiv:1802.09525</a>
- <br><br>
+
 
 
 A Precise Distance to the Host Galaxy of the Binary Neutron Star Merger GW170817 Using Surface Brightness Fluctuations<br>
 <i>Cantiello et al. 2018</i> | ApJL | <a href="https://arxiv.org/pdf/1801.06080.pdf">arXiv:1801.06080 </a>
 
-<br><br>
+
 
 The Binary Neutron Star event LIGO/VIRGO GW170817 a hundred days after merger: synchrotron emission across the electromagnetic spectrum<br>
 <i> Margutti et al. 2018</i> | Submitted to ApJL | <a href="https://arxiv.org/abs/1801.03531">  arXiv:1801.03531</a>
 
-<br><br>
-Radio Monitoring of the Tidal Disruption Event Swift J164449.3+573451. III. Late-time Jet Energetics and a Deviation from Equipartition<br>
-<i><b>T. Eftekhari</b> et al. 2018</i> | Submitted to ApJ | <a href="https://arxiv.org/abs/1710.07289">arXiv:1710.07289</a>
 
-<br><br>
+Radio Monitoring of the Tidal Disruption Event Swift J164449.3+573451. III. Late-time Jet Energetics and a Deviation from Equipartition<br>
+<i><b>T. Eftekhari et al. 2018</b></i> | Submitted to ApJ | <a href="https://arxiv.org/abs/1710.07289">arXiv:1710.07289</a>
+
+
 
 
 Improved Constraints on H0 from a combined analysis of gravitational-wave and electromagnetic emission from GW170817<br>
 <i>Guidorzi et al. 2017</i> | Submitted to ApJL | <a href="https://arxiv.org/abs/1710.06426">arXiv:1710.06426</a>
 
-<br><br>
+
 A gravitational-wave standard siren measurement of the Hubble constant<br>
 <i>Abbott et al. 2017</i> | Nature | <a href="https://arxiv.org/abs/1710.05835">arXiv:1710.05835</a>
 
-<br><br>
+
 
 The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. I. Dark Energy Camera Discovery of the Optical Counterpartt<br>
 <i>Soares-Santos et al. 2017</i> | ApJL| <a href="https://arxiv.org/abs/1710.05459">arXiv:1710.05459</a>
 
-<br><br>
 
 The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/VIRGO GW170817. II. UV, Optical, and Near-IR Light Curves and Comparison to Kilonova Models<br>
 <i>Cowperthwaite et al. 2017</i> | ApJL| <a href="https://arxiv.org/abs/1710.05840">arXiv:1710.05840</a>
 
-<br><br>
 
 
 The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/VIRGO GW170817. III. Optical and UV Spectra of a Blue Kilonova From Fast Polar Ejecta<br>
 <i>Nicholl et al. 2017</i> | ApJL| <a href="https://arxiv.org/abs/1710.05456">  arXiv:1710.05456 </a>
 
-<br><br>
+
 
 
 The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/VIRGO GW170817. IV. Detection of Near-infrared Signatures of r-process Nucleosynthesis with Gemini-South<br>
 <i>Chornock et al. 2017</i> | ApJL| <a href="https://arxiv.org/abs/1710.05454">arXiv:1710.05454</a>
 
-<br><br>
+
 
 
 The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/VIRGO GW170817. V. Rising X-ray Emission from an Off-Axis Jet<br>
 <i>Margutti et al. 2017</i> | ApJL| <a href="https://arxiv.org/abs/1710.05431"> arXiv:1710.05431</a>
 
-<br><br>
 
 
 The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/VIRGO GW170817. VI. Radio Constraints on a Relativistic Jet and Predictions for Late-Time Emission from the Kilonova Ejecta<br>
 <i>Alexander et al. 2017</i> | ApJL| <a href="https://arxiv.org/abs/1710.05457">arXiv:1710.05457</a>
 
-<br><br>
+
 
 
 The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/VIRGO GW170817. VII. Properties of the Host Galaxy and Constraints on the Merger Timescale<br>
 <i>Blanchard et al. 2017</i> | ApJL| <a href="https://arxiv.org/abs/1710.05458">arXiv:1710.05458 </a>
 
-<br><br>   
 
 The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/VIRGO GW170817. VIII. A Comparison to Cosmological Short-duration Gamma-ray Bursts<br>
 <i>Fong et al. 2017</i> | ApJL| <a href="https://arxiv.org/abs/1710.05438"> arXiv:1710.05438 </a>
 
-<br><br>    
 
 
 Design and characterization of the Large-Aperture Experiment to Detect the Dark Age (LEDA) radiometer systems<br>
