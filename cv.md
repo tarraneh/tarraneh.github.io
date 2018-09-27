@@ -11,12 +11,12 @@ description:
 
 <h3>Experience and Employment</h3>
 <i>Graduate Research Assistant, Harvard University</i>
-<p class="tab">2015 - Present | Masters Project, Advisor: Edo Berger<br>
-<i>Longterm Multi-wavelength Monitoring of the Tidal Disruption Event Swift J164449.3+573451</i><br></p>
-<hr/>
+2015 - Present | Masters Project, Advisor: Edo Berger<br>
+<i>Longterm Multi-wavelength Monitoring of the Tidal Disruption Event Swift J164449.3+573451</i>
+<hr width="50%">
 <i>Content Developer, HarvardX</i>
-<p class="tab">2017 - Present | Super-Earths and Life Online Course<br></p>
-<hr/>
+2017 - 2018 | Super-Earths and Life Online Course
+<hr width="50%">
 
 <i>Laboratory Assistant, Harvard University</i>
 <p class="tab">2015 - 2016 | Advisor: Lincoln Greenhill<br>
