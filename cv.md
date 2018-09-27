@@ -11,29 +11,29 @@ description:
 
 <h3>Experience and Employment</h3>
 <i>Graduate Research Assistant, Harvard University</i>
-2015 - Present | Masters Project, Advisor: Edo Berger<br>
+2015 - 2018 | Masters Project, Advisor: Edo Berger<br>
 <i>Longterm Multi-wavelength Monitoring of the Tidal Disruption Event Swift J164449.3+573451</i>
-<hr width="50%">
+<hr width="70%" align="left">
 <i>Content Developer, HarvardX</i>
 2017 - 2018 | Super-Earths and Life Online Course
-<hr width="50%">
+<hr width="70%" align="left">
 
 <i>Laboratory Assistant, Harvard University</i>
-<p class="tab">2015 - 2016 | Advisor: Lincoln Greenhill<br>
-<i>Development of a Low-Noise Amplifier for the Large Aperture Experiment to Detect the Dark Ages</i></p>
-<hr/>
+2015 - 2016 | Advisor: Lincoln Greenhill<br>
+<i>Development of a Low-Noise Amplifier for the Large Aperture Experiment to Detect the Dark Ages</i>
+<hr width="70%" align="left">
 
 
 <i>Undergraduate Research Assistant, University of New Mexico</i><br>
-<p class="tab">2013 - 2015 | Honors Thesis, Advisor: Greg Taylor<br>
-<i>A Low Frequency Survey of Giant Pulses from the Crab Pulsar</i><br></p>
-<hr/>
+2013 - 2015 | Honors Thesis, Advisor: Greg Taylor<br>
+<i>A Low Frequency Survey of Giant Pulses from the Crab Pulsar</i>
+<hr width="70%" align="left">
 <i>Summer Student, ASTRON, Netherlands</i><br>
-<p class="tab">2014 | Advisor: Richard Fallows<br>
-<i>Heliospheric Faraday Rotation from the Crab Pulsar</i></p>
-<hr/>
+2014 | Advisor: Richard Fallows<br>
+<i>Heliospheric Faraday Rotation from the Crab Pulsar</i>
+<hr width="70%" align="left">
 <i>Long Wavelength Array Telescope Operator</i><br>
-<p class="tab">2013 - 2015 </p><br>
+2013 - 2015 </p><br>
 
 <h3>Teaching</h3>
 2018 | Head Teaching Fellow, <i>Harvard University</i><br>
