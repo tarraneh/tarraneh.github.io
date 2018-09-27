@@ -16,22 +16,22 @@ description:
 <hr width="70%" height="1px" color="#eee" align="left">
 <i>Content Developer, HarvardX</i><br>
 2017 - 2018 | Super-Earths and Life Online Course
-<hr width="70%" align="left">
+<hr width="70%" color="#eee" align="left">
 
 <i>Laboratory Assistant, Harvard University</i><br>
 2015 - 2016 | Advisor: Lincoln Greenhill<br>
 <i>Development of a Low-Noise Amplifier for the Large Aperture Experiment to Detect the Dark Ages</i>
-<hr width="70%" align="left">
+<hr width="70%" color="#eee" align="left">
 
 
 <i>Undergraduate Research Assistant, University of New Mexico</i><br>
 2013 - 2015 | Honors Thesis, Advisor: Greg Taylor<br>
 <i>A Low Frequency Survey of Giant Pulses from the Crab Pulsar</i>
-<hr width="70%" align="left">
+<hr width="70%" color="#eee" align="left">
 <i>Summer Student, ASTRON, Netherlands</i><br>
 2014 | Advisor: Richard Fallows<br>
 <i>Heliospheric Faraday Rotation from the Crab Pulsar</i>
-<hr width="70%" align="left">
+<hr width="70%" color="#eee" align="left">
 <i>Long Wavelength Array Telescope Operator</i><br>
 2013 - 2015 </p><br>
 
