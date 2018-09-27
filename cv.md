@@ -50,8 +50,8 @@ The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 
 <h3>Telescope Time Allocations (as PI)</h3>
 Very Large Array | 6 hr<br>
-Chandra &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 105 ks<br>
-ALMA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 15 hr
+Chandra | 105 ks<br>
+ALMA | 15 hr
 
 
 <h3>Professional Service</h3>
@@ -69,9 +69,9 @@ ALMA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 2018 | Local Organizing Committee, <i>ComSciCon</i><br>
 2018 | Poster Judge, <i>National Collegiate Research Conference</i><br>
 2017 | Graduate Student Panel, <i> Wellesley College</i><br>
-2017 | DayCon 2017: Planet Earth Speaker Chair, <i> <a href="http://sitn.hms.harvard.edu/">Science in the News</a>, Harvard University</i><br>
+2017 | DayCon 2017: Planet Earth Speaker Chair, <i> Science in the News, Harvard University</i><br>
 2017 | Tech Team Mentor, <i>Science Club for Girls</i><br>
-2016 - Present| Blog Writer, <i> <a href="http://sitn.hms.harvard.edu/">Science in the News</a>, Harvard University</i><br>
+2016 - Present| Blog Writer, <i> Science in the News, Harvard University</i><br>
 2016 - 2017 | Undergraduate Women in Science Mentor, <i>Harvard University</i><br>
 2016 | Young Leaders in Stem Mentor, <i>Science Club for Girls</i><br>
 2016 | Digital Mentor, <i>YouthAstroNet</i><br>
@@ -168,12 +168,10 @@ The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/VIRGO GW1
 
 
 Design and characterization of the Large-Aperture Experiment to Detect the Dark Age (LEDA) radiometer systems<br>
-
 <i>Price et al. 2017</i> | Submitted to MNRAS | <a href="https://arxiv.org/abs/1709.09313">arXiv:1709.09313 </a>
 
-<br><br>
-Bifrost: a Python/C++ Framework for High-Throughput Stream Processing in Astronomy<br>
 
+Bifrost: a Python/C++ Framework for High-Throughput Stream Processing in Astronomy<br>
 <i>Cranmer et al. 2017 </i> | JAI | <a href="https://arxiv.org/abs/1708.00720">arXiv:1708.00720</a>
 
 <br><br>
@@ -196,18 +194,19 @@ Digital Signal Processing using Stream High Performance Computing: A 512-input B
 <i>Kocz et al. 2015</i> | JAI | <a href="http://arxiv.org/abs/1411.3751v2">arXiv:1411.3751v2</a>
 
 
-<h3>>Presentations</h3>
+<h3>Presentations</h3>
 Uncovering the Mystery of Fast Radio Bursts<br>
 <i>T. Eftekhari et al.</i> | 2018 | New Hampshire Astronomical Society
-<br><br>
+
 Radio Monitoring of the Tidal Disruption Event Swift J164449.3+573451<br>
 <i>T. Eftekhari et al.</i> | 2017 | Jerusalem Winter School in Theoretical Physics, The Physics of Astronomical Transients<br><br>
 Associating Fast Radio Bursts to Their Host Galaxies<br>
+
 <i>T. Eftekhari, E. Berger </i>| 2017 | Workshop on Fast Radio Bursts, McGill University
-<br><br>
+
 Longterm Multi-wavelength Monitoring of the Relativistic Tidal Disruption Event Swift J164449.3+573451<br>
 <i>T. Eftekhari, E. Berger, & B. A. Zauderer</i> | 2017 | American Astronomical Society 229th Meeting
-<br><br>
+
 Tidal Disruption Events: A Multi-Wavelength Approach<br>
 <i>T. Eftekhari</i> | 2016 | Time-Domain Astrophysics: Incorporating Observations, Theory, and Computation in the American Northeast                               
 <br><br>
