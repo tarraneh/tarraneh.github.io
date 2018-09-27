@@ -13,25 +13,25 @@ description:
 <i>Graduate Research Assistant, Harvard University</i>
 <p class="tab">2015 - Present | Masters Project, Advisor: Edo Berger<br>
 <i>Longterm Multi-wavelength Monitoring of the Tidal Disruption Event Swift J164449.3+573451</i><br></p>
-
+<hr/>
 <i>Content Developer, HarvardX</i>
 <p class="tab">2017 - Present | Super-Earths and Life Online Course<br></p>
-
+<hr/>
 
 <i>Laboratory Assistant, Harvard University</i>
 <p class="tab">2015 - 2016 | Advisor: Lincoln Greenhill<br>
 <i>Development of a Low-Noise Amplifier for the Large Aperture Experiment to Detect the Dark Ages</i></p>
-
+<hr/>
 
 
 <i>Undergraduate Research Assistant, University of New Mexico</i><br>
 <p class="tab">2013 - 2015 | Honors Thesis, Advisor: Greg Taylor<br>
 <i>A Low Frequency Survey of Giant Pulses from the Crab Pulsar</i><br></p>
-
+<hr/>
 <i>Summer Student, ASTRON, Netherlands</i><br>
 <p class="tab">2014 | Advisor: Richard Fallows<br>
 <i>Heliospheric Faraday Rotation from the Crab Pulsar</i></p>
-
+<hr/>
 <i>Long Wavelength Array Telescope Operator</i><br>
 <p class="tab">2013 - 2015 </p><br>
 
