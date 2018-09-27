@@ -4,12 +4,12 @@ title: CV
 description: 
 ---
 
-<b>Education</b><br><br>
+<h2>Education</h2>
 2015 - Present &nbsp; | Ph.D. Astronomy and Astrophysics, <i>Harvard University</i><br>
 2017 &nbsp; | A.M. Astronomy and Astrophysics, <i>Harvard University</i><br>
 2014 &nbsp; | B.S. Astrophysics, minor in mathematics, <i>University of New Mexico</i><br><br>
 
-<b>Experience and Employment</b><br><br>
+<h3>Experience and Employment</h3>
 <i>Graduate Research Assistant, Harvard University</i>
 <p class="tab">2015 - Present | Masters Project, Advisor: Edo Berger<br>
 <i>Longterm Multi-wavelength Monitoring of the Tidal Disruption Event Swift J164449.3+573451</i><br></p>
