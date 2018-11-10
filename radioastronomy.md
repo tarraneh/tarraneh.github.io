@@ -16,7 +16,7 @@ To understand why diffraction occurs, we must first understand Huygen's Principl
 Diffraction occurs when light bends as it passes through a small opening or aperture. Consider for example a plane wave front incident on a narrow slit or opening. At each point in time before the wave encounters the slit, we can decompose the wave front into a series of wavelets, but the surface tangent to the wavelets remains unchanged and we still have a wave front propagating as a plane. 
 
 
-As the wave front encounters the slit, however, wavelets on either side of the slit are blocked. Only wavelets near the slit pass through, which means we no longer have the wavelets on the edges of the plane wave contributing to our wave front, and so the surface tangent to the wavelets that make it through the slit is no longer a plane but a sphere. In other words, the light bends and spreads as it passes through the slit.  
+As the wave front encounters the slit, however, wavelets on either side of the slit are blocked. Only wavelets near the slit pass through, which means we no longer have the wavelets on the edges of the plane wave contributing to our wave front, and so the surface tangent to the wavelets that make it through the slit is no longer a plane. In other words, the light bends and spreads as it passes through the slit.  
 
 <center>
 <p><img src="images/singleslit.png" align="center" width='40%'> 
