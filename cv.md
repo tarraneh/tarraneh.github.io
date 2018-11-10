@@ -16,7 +16,7 @@ description:
 <hr width="70%" height="1px" color="#eee" align="left">
 <i>Content Developer, HarvardX</i><br>
 2018 | Fundamentals of Neuroscience, Part 3: The Brain<br>
-2017 - 2018 | Super-Earths and Life Online Course
+2017 - 2018 | Super-Earths and Life
 <hr width="70%" color="#eee" align="left">
 
 <i>Laboratory Assistant, Harvard University</i><br>
