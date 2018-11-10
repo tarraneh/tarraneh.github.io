@@ -15,6 +15,7 @@ description:
 <i>Late-time Multi-wavelength Monitoring of the Tidal Disruption Event Swift J164449.3+573451</i>
 <hr width="70%" height="1px" color="#eee" align="left">
 <i>Content Developer, HarvardX</i><br>
+2018 | Fundamentals of Neuroscience, Part 3: The Brain<br>
 2017 - 2018 | Super-Earths and Life Online Course
 <hr width="70%" color="#eee" align="left">
 
