@@ -68,7 +68,7 @@ ALMA | 15 hr
 
 
 <h3>Outreach Activities</h3>
-2018 | Seminar Coordinator, Unveiling the Cosmos, <i>Beacon Hill Seminsars</i><br>
+2018 | Seminar Coordinator, Unveiling the Cosmos, <i>Beacon Hill Seminars</i><br>
 2018 | Local Organizing Committee, <i>ComSciCon</i><br>
 2018 | Poster Judge, <i>National Collegiate Research Conference</i><br>
 2017 | Graduate Student Panel, <i> Wellesley College</i><br>
