@@ -50,7 +50,7 @@ The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 2013 | University of New Mexico Undergraduate Research Award
 
 <h3>Telescope Time Allocations (as PI)</h3>
-Very Large Array | 6 hr<br>
+Very Large Array | 10 hr<br>
 Chandra | 105 ks<br>
 ALMA | 15 hr
 
@@ -61,12 +61,14 @@ ALMA | 15 hr
 
 
 <h3>Professional Development</h3>
+2018 | ICRAR/CASS Radio School<br>
 2017 | Jerusalem Winter School in Theoretical Physics, The Physics of Astronomical Transients<br>
 2017 | La Serena School of Data Science, Applied Tools for Data Driven Sciences<br>
 2014, 2016 | NRAO Synthesis Imaging Workshop
 
 
 <h3>Outreach Activities</h3>
+2018 | Seminar Coordinator, Unveiling the Cosmos, <i>Beacon Hill Seminsars</i><br>
 2018 | Local Organizing Committee, <i>ComSciCon</i><br>
 2018 | Poster Judge, <i>National Collegiate Research Conference</i><br>
 2017 | Graduate Student Panel, <i> Wellesley College</i><br>
