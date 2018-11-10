@@ -9,8 +9,9 @@ The angular resolution of a telescope is set by the diffraction limit, and it de
 
 To understand why diffraction occurs, we must first understand Huygen's Principle (1678), which states that given the wave nature of light, any point on a wave front can be considered the source of secondary wavelets or spherical waves. The surface tangent to all of the secondary wavelets defines the location of the wave front at some later time.
 
+<center>
 <p><img src="images/huygens.png" align="center" width='30%'> 
-<sub><sup><center><i>Young and Freedman, University Physics with Modern Physics</i></center></sup></sub>     </p> 
+<sub><sup><i>Young and Freedman, University Physics with Modern Physics</i></sup></sub>     </p></center> 
 
 Diffraction occurs when light bends as it passes through a small opening or aperture. Consider for example a plane wave front incident on a narrow slit or opening. At each point in time before the wave encounters the slit, we can decompose the wave front into a series of wavelets, but the surface tangent to the wavelets remains unchanged and we still have a wave front propagating as a plane. 
 
