@@ -17,6 +17,7 @@ description:
 <i>Late-time Multi-wavelength Monitoring of the Tidal Disruption Event Swift J164449.3+573451</i>
 <hr width="70%" height="1px" color="#eee" align="left">
 <i>Content Developer, HarvardX</i><br>
+2019 | The FDA and Prescription Drugs: Current Controversies in Context<br>
 2018 | Fundamentals of Neuroscience, Part 3: The Brain<br>
 2017 - 2018 | Super-Earths and Life
 <hr width="70%" color="#eee" align="left">
@@ -46,6 +47,7 @@ The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 
 <h3>Awards</h3>
+2018 | ALMA Cycle 6 Student Observing Support Award<br>
 2017 | National Science Foundation GRFP Honorable Mention<br>
 2017 | Bok Center Certificate of Distinction in Teaching, Harvard University (SPU 22)<br>
 2014 | New Mexico Space Grant Consortium Scholarship<br>
@@ -70,6 +72,7 @@ ALMA | 15 hr
 
 
 <h3>Outreach Activities</h3>
+2019 | Organizing Committee, <i>ComSciCon</i><br>
 2018 | Seminar Coordinator, Unveiling the Cosmos, <i>Beacon Hill Seminars</i><br>
 2018 | Local Organizing Committee, <i>ComSciCon</i><br>
 2018 | Poster Judge, <i>National Collegiate Research Conference</i><br>
@@ -90,6 +93,9 @@ Software | CASA, CIAO, XSPEC, DS9, Genesys RF and Microwave Design<br>
 
 
 <h3>Publications</h3>
+
+An embedded X-ray source shines through the aspherical AT2018cow: revealing the inner workings of the most luminous fast-evolving optical transients<br>
+<i>Margutti et al. 2018</i> | ApJ | <a href="https://arxiv.org/abs/1810.10720">	arXiv:1810.10720</a>
 
 
 Unveiling the Engines of Fast Radio Bursts, Super-Luminous Supernovae, and Gamma-Ray Bursts<br>

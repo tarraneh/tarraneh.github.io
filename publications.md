@@ -4,6 +4,9 @@ title: Publications
 description: 
 ---
 
+An embedded X-ray source shines through the aspherical AT2018cow: revealing the inner workings of the most luminous fast-evolving optical transients<br>
+<i>Margutti et al. 2018</i> | ApJ | <a href="https://arxiv.org/abs/1810.10720">	arXiv:1810.10720</a>
+
 
 Unveiling the Engines of Fast Radio Bursts, Super-Luminous Supernovae, and Gamma-Ray Bursts<br>
 <i>Margalit et al. 2018</i> | MNRAS | <a href="https://arxiv.org/abs/1806.05690">arXiv:1806.05690 </a>
