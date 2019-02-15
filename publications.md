@@ -4,6 +4,10 @@ title: Publications
 description: 
 ---
 
+A Radio Source Coincident with the Superluminous Supernovae PTF10hgi: Evidence for a Central Engine and an Analogue of the Repeating FRB121102?<br>
+<i><b>T. Eftekhari et al. 2019</b></i> | Submitted to ApJL | <a href="https://arxiv.org/abs/1901.10479">arXiv:1901.10479</a>
+
+
 An embedded X-ray source shines through the aspherical AT2018cow: revealing the inner workings of the most luminous fast-evolving optical transients<br>
 <i>Margutti et al. 2018</i> | ApJ | <a href="https://arxiv.org/abs/1810.10720">	arXiv:1810.10720</a>
 
