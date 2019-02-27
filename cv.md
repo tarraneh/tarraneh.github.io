@@ -57,6 +57,7 @@ The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 Very Large Array | 21 hr<br>
 Chandra | 105 ks<br>
 ALMA | 15 hr
+Arecibo | 15 hr
 
 
 <h3>Professional Service</h3>
@@ -72,8 +73,7 @@ ALMA | 15 hr
 
 
 <h3>Outreach Activities</h3>
-2019 | Organizing Committee, <i>ComSciCon</i><br>
-2018 | Seminar Coordinator, Unveiling the Cosmos, <i>Beacon Hill Seminars</i><br>
+2018 - 2019 | Seminar Coordinator, Unveiling the Cosmos, <i>Beacon Hill Seminars</i><br>
 2018 | Local Organizing Committee, <i>ComSciCon</i><br>
 2018 | Poster Judge, <i>National Collegiate Research Conference</i><br>
 2017 | Graduate Student Panel, <i> Wellesley College</i><br>
