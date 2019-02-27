@@ -40,6 +40,9 @@ description:
 2013 - 2015 <br>
 
 <h3>Teaching</h3>
+2019 | Head Teaching Fellow, <i>Harvard University</i><br>
+The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
+<br><br>
 2018 | Head Teaching Fellow, <i>Harvard University</i><br>
 The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 <br><br>
