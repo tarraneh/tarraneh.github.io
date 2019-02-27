@@ -59,7 +59,7 @@ The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 <h3>Telescope Time Allocations (as PI)</h3>
 Very Large Array | 21 hr<br>
 Chandra | 105 ks<br>
-ALMA | 15 hr
+ALMA | 15 hr <br>
 Arecibo | 15 hr
 
 
