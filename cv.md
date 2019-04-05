@@ -94,6 +94,35 @@ Langauges | Python, Latex, HTML, CSS<br>
 Software | CASA, CIAO, XSPEC, DS9, Genesys RF and Microwave Design<br>
 
 
+<h3>Presentations</h3>
+
+Identifying the Host Galaxies of Fast Radio Bursts<br>
+2019 | FRBs and Their Possible Neutron Star Origins, Amsterdam
+
+Research Talk<br>
+2018 | Transients Group Meeting, CIERA Northwestern University
+
+Uncovering the Mystery of Fast Radio Bursts<br>
+2018 | New Hampshire Astronomical Society
+
+Radio Monitoring of the Tidal Disruption Event Swift J164449.3+573451<br>
+2017 | Jerusalem Winter School in Theoretical Physics, The Physics of Astronomical Transients
+
+Associating Fast Radio Bursts to Their Host Galaxies<br>
+2017 | Workshop on Fast Radio Bursts, McGill University
+
+Longterm Multi-wavelength Monitoring of the Relativistic Tidal Disruption Event Swift J164449.3+573451<br>
+2017 | American Astronomical Society 229th Meeting
+
+Tidal Disruption Events: A Multi-Wavelength Approach<br>
+2016 | Time-Domain Astrophysics: Incorporating Observations, Theory, and Computation in the American Northeast                               
+
+A Low Frequency Survey of Giant Pulses from the Crab Pulsar<br>
+2015 | American Astronomical Society 225th Meeting
+
+
+
+
 
 <h3>Publications</h3>
 
@@ -206,24 +235,4 @@ Pulsar Observations Using the First Station of the Long Wavelength Array and the
 
 Digital Signal Processing using Stream High Performance Computing: A 512-input Broadband Correlator for Radio Astronomy<br>
 <i>Kocz et al. 2015</i> | JAI | <a href="http://arxiv.org/abs/1411.3751v2">arXiv:1411.3751v2</a>
-
-
-<h3>Presentations</h3>
-Uncovering the Mystery of Fast Radio Bursts<br>
-<i>T. Eftekhari et al.</i> | 2018 | New Hampshire Astronomical Society
-
-Radio Monitoring of the Tidal Disruption Event Swift J164449.3+573451<br>
-<i>T. Eftekhari et al.</i> | 2017 | Jerusalem Winter School in Theoretical Physics, The Physics of Astronomical Transients
-
-Associating Fast Radio Bursts to Their Host Galaxies<br>
-<i>T. Eftekhari, E. Berger </i>| 2017 | Workshop on Fast Radio Bursts, McGill University
-
-Longterm Multi-wavelength Monitoring of the Relativistic Tidal Disruption Event Swift J164449.3+573451<br>
-<i>T. Eftekhari, E. Berger, & B. A. Zauderer</i> | 2017 | American Astronomical Society 229th Meeting
-
-Tidal Disruption Events: A Multi-Wavelength Approach<br>
-<i>T. Eftekhari</i> | 2016 | Time-Domain Astrophysics: Incorporating Observations, Theory, and Computation in the American Northeast                               
-
-A Low Frequency Survey of Giant Pulses from the Crab Pulsar<br>
-<i>T. Eftekhariet al.</i> | 2015 | American Astronomical Society 225th Meeting
 
