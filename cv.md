@@ -96,6 +96,10 @@ Software | CASA, CIAO, XSPEC, DS9, Genesys RF and Microwave Design<br>
 
 <h3>Presentations</h3>
 
+
+A Radio Source Coincident with the Superluminous Supernova PTF10hgi<br>
+2019 | Columbia University, Department of Astronomy Pizza Lunch
+
 Identifying the Host Galaxies of Fast Radio Bursts<br>
 2019 | FRBs and Their Possible Neutron Star Origins, Amsterdam
 
