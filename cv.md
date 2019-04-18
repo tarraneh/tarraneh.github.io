@@ -40,10 +40,7 @@ description:
 2013 - 2015 <br>
 
 <h3>Teaching</h3>
-2019 | Head Teaching Fellow, <i>Harvard University</i><br>
-The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
-<br><br>
-2018 | Head Teaching Fellow, <i>Harvard University</i><br>
+2018, 2019 | Head Teaching Fellow, <i>Harvard University</i><br>
 The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 <br><br>
 2017 | Teaching Fellow, <i>Harvard University</i><br>
@@ -96,6 +93,8 @@ Software | CASA, CIAO, XSPEC, DS9, Genesys RF and Microwave Design<br>
 
 <h3>Presentations</h3>
 
+Millimeter Transients in the Era of CMB Surveys<br>
+2019 | Astrophysics with the CMB-S4 Survey, University of Chicago
 
 A Radio Source Coincident with the Superluminous Supernova PTF10hgi<br>
 2019 | Columbia University, Department of Astronomy Pizza Lunch
