@@ -93,6 +93,9 @@ Software | CASA, CIAO, XSPEC, DS9, Genesys RF and Microwave Design<br>
 
 <h3>Presentations</h3>
 
+A Radio Source Coincident with a Superluminous Supernovae<br>
+2019 | Institute for Theory and Computation Luncheon, Harvard
+
 Millimeter Transients in the Era of CMB Surveys<br>
 2019 | Astrophysics with the CMB-S4 Survey, University of Chicago
 
