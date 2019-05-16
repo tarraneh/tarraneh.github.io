@@ -54,10 +54,11 @@ The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 2013 | University of New Mexico Undergraduate Research Award
 
 <h3>Telescope Time Allocations (as PI)</h3>
-Very Large Array | 21 hr<br>
+Very Large Array | 28 hr<br>
 Chandra | 105 ks<br>
 ALMA | 15 hr <br>
-Arecibo | 15 hr
+Arecibo | 15 hr<br>
+VLBA | 3 hr
 
 
 <h3>Professional Service</h3>
