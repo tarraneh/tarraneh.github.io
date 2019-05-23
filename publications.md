@@ -4,9 +4,20 @@ title: Publications
 description: 
 ---
 
-A Radio Source Coincident with the Superluminous Supernovae PTF10hgi: Evidence for a Central Engine and an Analogue of the Repeating FRB121102?<br>
-<i><b>T. Eftekhari et al. 2019</b></i> | Submitted to ApJL | <a href="https://arxiv.org/abs/1901.10479">arXiv:1901.10479</a>
+Follow-up of the Neutron Star Bearing Gravitational Wave Candidate Events S190425z and S190426c with MMT and SOAR<br>
+<i>Hosseinzadeh et al. 2019</i> | Submitted to ApJL| <a href="https://arxiv.org/abs/1905.02186">arXiv:1905.02186</a>
 
+A Radio Source Coincident with the Superluminous Supernovae PTF10hgi: Evidence for a Central Engine and an Analogue of the Repeating FRB121102?<br>
+<i><b>T. Eftekhari et al. 2019</b></i> | ApJL | <a href="https://arxiv.org/abs/1901.10479">arXiv:1901.10479</a>
+
+The tidal disruption event AT2017eqx: spectroscopic evolution from hydrogen rich to poor suggests an atmosphere and outflow<br>
+<i>Nicholl et al. 2019</i> | Submitted to MNRAS | <a href="https://arxiv.org/abs/1904.10571">arXiv:1904.10571</a>
+
+Radio Time-Domain Signatures of Magnetar Birth<br>
+<i>Law et al. 2019</i> | Astro2020 White Paper | <a href="https://arxiv.org/abs/1903.04691">arXiv:1903.04691</a>
+
+Multi-Messenger Astronomy with Extremely Large Telescopes<br>
+<i>Chornock et al. 2019</i> | Astro2020 White Paper | <a href="https://arxiv.org/abs/1903.04629">arXiv:1903.04629</a>
 
 An embedded X-ray source shines through the aspherical AT2018cow: revealing the inner workings of the most luminous fast-evolving optical transients<br>
 <i>Margutti et al. 2018</i> | ApJ | <a href="https://arxiv.org/abs/1810.10720">	arXiv:1810.10720</a>
@@ -28,7 +39,6 @@ Associating Fast Radio Bursts with Extragalactic Radio Sources: General Methodol
                                  
 A Precise Distance to the Host Galaxy of the Binary Neutron Star Merger GW170817 Using Surface Brightness Fluctuations<br>
 <i>Cantiello et al. 2018</i> | ApJL | <a href="https://arxiv.org/pdf/1801.06080.pdf">arXiv:1801.06080 </a>
-
 
 
 The Binary Neutron Star event LIGO/VIRGO GW170817 a hundred and sixty days after merger: synchrotron emission across the electromagnetic spectrum<br>
