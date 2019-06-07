@@ -109,7 +109,7 @@ A Radio Source Coincident with the Superluminous Supernova PTF10hgi<br>
 Identifying the Host Galaxies of Fast Radio Bursts<br>
 2019 | FRBs and Their Possible Neutron Star Origins, Amsterdam
 
-Research Talk<br>
+Tidal Disruption Events and Fast Radio Bursts<br>
 2018 | Transients Group Meeting, CIERA Northwestern University
 
 Uncovering the Mystery of Fast Radio Bursts<br>
