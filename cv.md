@@ -94,6 +94,9 @@ Software | CASA, CIAO, XSPEC, DS9, Genesys RF and Microwave Design<br>
 
 <h3>Presentations</h3>
 
+Localizing Fast Radio Bursts and Their Host Galaxies<br>
+2019 | CITA/Dunlap Institute
+
 A Radio Source Coincident with a Superluminous Supernovae<br>
 2019 | Institute for Theory and Computation Luncheon, Harvard
 
