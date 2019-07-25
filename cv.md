@@ -54,7 +54,7 @@ The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 2013 | University of New Mexico Undergraduate Research Award
 
 <h3>Telescope Time Allocations (as PI)</h3>
-VLA | 31 hr<br>
+VLA | 32 hr<br>
 Chandra | 135 ks<br>
 ALMA | 39 hr <br>
 Arecibo | 15 hr<br>
