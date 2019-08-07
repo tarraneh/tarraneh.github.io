@@ -67,6 +67,7 @@ VLBA | 3 hr
 
 
 <h3>Professional Development</h3>
+2019 | GROWTH Astronomy School: Follow up of transients in the era of multi-messenger astronomy<br>
 2018 | ICRAR/CASS Radio School<br>
 2017 | Jerusalem Winter School in Theoretical Physics, The Physics of Astronomical Transients<br>
 2017 | La Serena School of Data Science, Applied Tools for Data Driven Sciences<br>
@@ -80,7 +81,7 @@ VLBA | 3 hr
 2017 | Graduate Student Panel, <i> Wellesley College</i><br>
 2017 | DayCon 2017: Planet Earth Speaker Chair, <i> Science in the News, Harvard University</i><br>
 2017 | Tech Team Mentor, <i>Science Club for Girls</i><br>
-2016 - Present| Blog Writer, <i> Science in the News, Harvard University</i><br>
+2016 - 2018| Blog Writer, <i> Science in the News, Harvard University</i><br>
 2016 - 2017 | Undergraduate Women in Science Mentor, <i>Harvard University</i><br>
 2016 | Young Leaders in Stem Mentor, <i>Science Club for Girls</i><br>
 2016 | Digital Mentor, <i>YouthAstroNet</i><br>
