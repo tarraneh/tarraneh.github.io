@@ -47,6 +47,7 @@ The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 The Unity of Science: From the Big Bang to the Brontosaurus and Beyond
 
 <h3>Awards</h3>
+2019 | ALMA Cycle 7 Student Observing Support Award<br>
 2018 | ALMA Cycle 6 Student Observing Support Award<br>
 2017 | National Science Foundation GRFP Honorable Mention<br>
 2017 | Bok Center Certificate of Distinction in Teaching, Harvard University (SPU 22)<br>
@@ -58,7 +59,8 @@ VLA | 32 hr<br>
 Chandra | 135 ks<br>
 ALMA | 39 hr <br>
 Arecibo | 15 hr<br>
-VLBA | 3 hr
+VLBA | 3 hr<br>
+SMA | 3 tracks
 
 
 <h3>Professional Service</h3>
@@ -76,7 +78,9 @@ VLBA | 3 hr
 
 
 <h3>Outreach Activities</h3>
-2018 - 2019 | Seminar Coordinator, Unveiling the Cosmos, <i>Beacon Hill Seminars</i><br>
+2019 - 2020 | Peer Mentor, <i>Harvard Astronomy Department</i><br>
+2019| Panelist, Graduate School from the Grad Student Perspective, <i>SAO Solar Physics REU</i><br>
+2018 - 2020 | Seminar Coordinator, Unveiling the Cosmos, <i>Beacon Hill Seminars</i><br>
 2018 | Local Organizing Committee, <i>ComSciCon</i><br>
 2018 | Poster Judge, <i>National Collegiate Research Conference</i><br>
 2017 | Graduate Student Panel, <i> Wellesley College</i><br>
