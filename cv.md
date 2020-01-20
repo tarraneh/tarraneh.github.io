@@ -17,6 +17,8 @@ description:
 <i>Late-time Multi-wavelength Monitoring of the Tidal Disruption Event Swift J164449.3+573451</i>
 <hr width="70%" height="1px" color="#eee" align="left">
 <i>Content Developer, HarvardX</i><br>
+2020| Reclaiming Argument: An Introduction to Logical Reasoning<br>
+2020 | 
 2019 | The FDA and Prescription Drugs: Current Controversies in Context<br>
 2018 | Fundamentals of Neuroscience, Part 3: The Brain<br>
 2017 - 2018 | Super-Earths and Life
@@ -141,6 +143,21 @@ A Low Frequency Survey of Giant Pulses from the Crab Pulsar<br>
 
 
 <h3>Publications</h3>
+
+Wandering Massive Black Holes or Analogs of the First Repeating Fast Radio Burst?<br>
+<i><b>T. Eftekhari et al. 2020</b></i> | Submitted to ApJL| <a href="https://arxiv.org/abs/2001.02688">arXiv:2001.02688</a>
+
+AT 2018cow VLBI: No Long-Lived Relativistic Outflow<br>
+<i>Bietenholz et al. 2019</i> | MNRAS | <a href="https://arxiv.org/abs/1911.08778">arXiv:1911.08778</a>
+
+Two years of non-thermal emission from the binary neutron star merger GW170817: rapid fading of the jet afterglow and first constraints on the kilonova fastest ejecta<br>
+<i>Hajela et al. 2019</i> | ApJL | <a href="https://arxiv.org/abs/1909.06393">arXiv:1909.06393</a>
+
+A Galaxy-Targeted Search for the Optical Counterpart of the Candidate NS-BH Merger S190814bv with Magellan<br>
+<i>Gomez et al. 2019</i> | ApJL | <a href="https://arxiv.org/abs/1908.08913">arXiv:1908.08913</a>
+
+The Optical Afterglow of GW170817: An Off-axis Structured Jet and Deep Constraints on a Globular Cluster Origin<br>
+<i>Fong et al. 2019</i> | ApJL | <a href="https://arxiv.org/abs/1908.08046">arXiv:1908.08046</a>
 
 Follow-up of the Neutron Star Bearing Gravitational Wave Candidate Events S190425z and S190426c with MMT and SOAR<br>
 <i>Hosseinzadeh et al. 2019</i> | Submitted to ApJL| <a href="https://arxiv.org/abs/1905.02186">arXiv:1905.02186</a>
