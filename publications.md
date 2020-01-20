@@ -4,14 +4,31 @@ title: Publications
 description: 
 ---
 
+https://arxiv.org/abs/2001.02688
+
+Wandering Massive Black Holes or Analogs of the First Repeating Fast Radio Burst?<br>
+<i><b>T. Eftekhari et al. 2020/i></b> | Submitted to ApJL| <a href="https://arxiv.org/abs/2001.02688">arXiv:2001.02688</a>
+
+AT 2018cow VLBI: No Long-Lived Relativistic Outflow<br>
+<i>Bietenholz et al. 2019</i> | MNRAS | <a href="https://arxiv.org/abs/1911.08778">arXiv:1911.08778</a>
+
+Two years of non-thermal emission from the binary neutron star merger GW170817: rapid fading of the jet afterglow and first constraints on the kilonova fastest ejecta<br>
+<i>Hajela et al. 2019</i> | ApJL | <a href="https://arxiv.org/abs/1909.06393">arXiv:1909.06393</a>
+
+A Galaxy-Targeted Search for the Optical Counterpart of the Candidate NS-BH Merger S190814bv with Magellan<br>
+<i>Gomez et al. 2019</i> | ApJL | <a href="https://arxiv.org/abs/1908.08913">arXiv:1908.08913</a>
+
+The Optical Afterglow of GW170817: An Off-axis Structured Jet and Deep Constraints on a Globular Cluster Origin<br>
+<i>Fong et al. 2019</i> | ApJL | <a href="https://arxiv.org/abs/1908.08046">arXiv:1908.08046</a>
+
 Follow-up of the Neutron Star Bearing Gravitational Wave Candidate Events S190425z and S190426c with MMT and SOAR<br>
-<i>Hosseinzadeh et al. 2019</i> | Submitted to ApJL| <a href="https://arxiv.org/abs/1905.02186">arXiv:1905.02186</a>
+<i>Hosseinzadeh et al. 2019</i> | ApJL| <a href="https://arxiv.org/abs/1905.02186">arXiv:1905.02186</a>
 
 A Radio Source Coincident with the Superluminous Supernovae PTF10hgi: Evidence for a Central Engine and an Analogue of the Repeating FRB121102?<br>
 <i><b>T. Eftekhari et al. 2019</b></i> | ApJL | <a href="https://arxiv.org/abs/1901.10479">arXiv:1901.10479</a>
 
 The tidal disruption event AT2017eqx: spectroscopic evolution from hydrogen rich to poor suggests an atmosphere and outflow<br>
-<i>Nicholl et al. 2019</i> | Submitted to MNRAS | <a href="https://arxiv.org/abs/1904.10571">arXiv:1904.10571</a>
+<i>Nicholl et al. 2019</i> | MNRAS | <a href="https://arxiv.org/abs/1904.10571">arXiv:1904.10571</a>
 
 Radio Time-Domain Signatures of Magnetar Birth<br>
 <i>Law et al. 2019</i> | Astro2020 White Paper | <a href="https://arxiv.org/abs/1903.04691">arXiv:1903.04691</a>
@@ -22,10 +39,8 @@ Multi-Messenger Astronomy with Extremely Large Telescopes<br>
 An embedded X-ray source shines through the aspherical AT2018cow: revealing the inner workings of the most luminous fast-evolving optical transients<br>
 <i>Margutti et al. 2018</i> | ApJ | <a href="https://arxiv.org/abs/1810.10720">	arXiv:1810.10720</a>
 
-
 Unveiling the Engines of Fast Radio Bursts, Super-Luminous Supernovae, and Gamma-Ray Bursts<br>
 <i>Margalit et al. 2018</i> | MNRAS | <a href="https://arxiv.org/abs/1806.05690">arXiv:1806.05690 </a>
-
 
 Spitzer Space Telescope Infrared Observations of the Binary Neutron Star Merger GW170817<br>
 <i>Villar et al. 2018</i> | ApJL | <a href="https://arxiv.org/abs/1805.08192">arXiv:1805.08192</a>
