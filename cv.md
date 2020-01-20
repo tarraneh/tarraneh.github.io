@@ -18,7 +18,6 @@ description:
 <hr width="70%" height="1px" color="#eee" align="left">
 <i>Content Developer, HarvardX</i><br>
 2020| Reclaiming Argument: An Introduction to Logical Reasoning<br>
-2020 | 
 2019 | The FDA and Prescription Drugs: Current Controversies in Context<br>
 2018 | Fundamentals of Neuroscience, Part 3: The Brain<br>
 2017 - 2018 | Super-Earths and Life
