@@ -101,6 +101,9 @@ Software | CASA, CIAO, XSPEC, DS9, Genesys RF and Microwave Design<br>
 
 <h3>Presentations</h3>
 
+An Overview of FRB Environments<br>
+2020 | The Astrophysics of Fast Radio Bursts, Flatiron Institute
+
 Localizing Fast Radio Bursts and Their Host Galaxies<br>
 2019 | CITA/Dunlap Institute
 
