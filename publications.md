@@ -4,6 +4,8 @@ title: Publications
 description: 
 ---
 
+<b>6 first author, 28 co-author publications</b>
+
 Wandering Massive Black Holes or Analogs of the First Repeating Fast Radio Burst?<br>
 <i><b>T. Eftekhari et al. 2020</b></i> | Submitted to ApJL| <a href="https://arxiv.org/abs/2001.02688">arXiv:2001.02688</a>
 
