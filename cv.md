@@ -66,7 +66,7 @@ SMA | 3 tracks
 
 
 <h3>Professional Service</h3>
-2019 | Referee, Astrophysical Journal<br>
+2019 - Prsent | Referee, Astrophysical Journal, Astrophysical Journal Letters<br>
 2017 | Facilitator, Chandra Cycle 19 Peer Review
 
 
@@ -101,6 +101,9 @@ Software | CASA, CIAO, XSPEC, DS9, Genesys RF and Microwave Design<br>
 
 
 <h3>Presentations</h3>
+
+Millimeter Transients with CMB-S4<br>
+2020 | CMB-S4 Spring 2020 Collaboration Meeting, Lawrence Berkeley National Laboratory
 
 An Overview of FRB Environments<br>
 2020 | The Astrophysics of Fast Radio Bursts, Flatiron Institute
