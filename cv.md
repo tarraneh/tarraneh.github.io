@@ -66,7 +66,7 @@ SMA | 3 tracks
 
 
 <h3>Professional Service</h3>
-2019 - Prsent | Referee, Astrophysical Journal, Astrophysical Journal Letters<br>
+2019 - Present | Referee, Astrophysical Journal, Astrophysical Journal Letters, MNRAS<br>
 2017 | Facilitator, Chandra Cycle 19 Peer Review
 
 
