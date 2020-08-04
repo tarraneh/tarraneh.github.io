@@ -4,7 +4,8 @@ title: About
 description: 
 ---
 ## About
-<img src="images/profilepic.jpg" align="left">
+
+<p><img src="images/profilepic.jpg" align="left"></p>
 
 I am a graduate student at the Harvard-Smithsonian Center for Astrophysics. My research focuses on transient phenomena, from tidal disruption events to fast radio bursts and superluminous supernovae. I'm particularly interested in the properties of these events in the radio regime. In the past, I worked as part of the [Long Wavelength Array](http://www.phys.unm.edu/~lwa/index.html) collaboration based out of the University of New Mexico.
 
