@@ -5,7 +5,7 @@ description:
 ---
 ## About
 
-<img src="images/profilepic.jpg" align="left" width="38%" style="display:inline;margin:7px 2px 2px 2px;"> I am a graduate student at the Harvard-Smithsonian Center for Astrophysics where I work with the <a href="https://www.transients.science/">Berger Cosmic Transients Lab</a>. My research focuses on time-domain astronomy, from tidal disruption events to fast radio bursts and superluminous supernovae, with a particular emphasis on the radio properties these events. In the past, I worked as part of the [Long Wavelength Array](http://www.phys.unm.edu/~lwa/index.html) collaboration based out of the University of New Mexico.
+<img src="images/profilepic.jpg" align="left" width="38%" style="display:inline;margin:10px 2px 2px 2px;"> I am a graduate student at the Harvard-Smithsonian Center for Astrophysics where I work with the <a href="https://www.transients.science/">Berger Cosmic Transients Lab</a>. My research focuses on time-domain astronomy, from tidal disruption events to fast radio bursts and superluminous supernovae, with a particular emphasis on the radio properties these events. In the past, I worked as part of the [Long Wavelength Array](http://www.phys.unm.edu/~lwa/index.html) collaboration based out of the University of New Mexico.
 
 Though I'm East coast bound for the time being, I'm a desert dweller at heart, hailing from the enchanted mountains of Northern New Mexico.
 
