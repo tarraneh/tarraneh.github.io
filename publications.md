@@ -4,10 +4,13 @@ title: Publications
 description: 
 ---
 
-<b>6 first author, 28 co-author publications</b>
+<b>7 first author, 28 co-author publications</b>
+
+Late-time Radio and Millimeter Observations of Superluminous Supernovae and Long Gamma-Ray Bursts: Implications for Obscured Star Formation, Central Engines, and Fast Radio Bursts
+<i><b>T. Eftekhari et al. 2020</b></i> | Submitted to ApJ| <a href="https://arxiv.org/abs/2010.06612">arXiv:2010.06612</a>
 
 Wandering Massive Black Holes or Analogs of the First Repeating Fast Radio Burst?<br>
-<i><b>T. Eftekhari et al. 2020</b></i> | Submitted to ApJL| <a href="https://arxiv.org/abs/2001.02688">arXiv:2001.02688</a>
+<i><b>T. Eftekhari et al. 2020</b></i> | ApJL| <a href="https://arxiv.org/abs/2001.02688">arXiv:2001.02688</a>
 
 AT 2018cow VLBI: No Long-Lived Relativistic Outflow<br>
 <i>Bietenholz et al. 2019</i> | MNRAS | <a href="https://arxiv.org/abs/1911.08778">arXiv:1911.08778</a>
