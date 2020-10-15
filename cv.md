@@ -150,7 +150,7 @@ A Low Frequency Survey of Giant Pulses from the Crab Pulsar<br>
 
 <h3>Publications</h3>
 
-Late-time Radio and Millimeter Observations of Superluminous Supernovae and Long Gamma-Ray Bursts: Implications for Obscured Star Formation, Central Engines, and Fast Radio Bursts
+Late-time Radio and Millimeter Observations of Superluminous Supernovae and Long Gamma-Ray Bursts: Implications for Obscured Star Formation, Central Engines, and Fast Radio Bursts<br>
 <i><b>T. Eftekhari et al. 2020</b></i> | Submitted to ApJ| <a href="https://arxiv.org/abs/2010.06612">arXiv:2010.06612</a>
 
 Wandering Massive Black Holes or Analogs of the First Repeating Fast Radio Burst?<br>
