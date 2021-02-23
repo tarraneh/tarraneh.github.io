@@ -75,21 +75,21 @@
 .post__title,
 .page__title {
   margin-bottom: 40px;
-  font-size: 72px;
+  font-size: 34px;
   line-height: .85em;
   text-transform: uppercase;
 
   @media only screen and (max-width: 1140px) {
-    font-size: 64px;
+    font-size: 22px;
   }
 
   @media only screen and (max-width: $desktop) {
-    font-size: 48px;
+    font-size: 15px;
   }
 
   @media only screen and (max-width: $mobile) {
     margin-bottom: 24px;
-    font-size: 32px;
+    font-size: 15px;
   }
 }
 
