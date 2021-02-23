@@ -4,7 +4,6 @@ title: A lean, mean Hackintosh-ing machine
 description: How to Build a Hackintosh Computer
 header: Building a Hackintosh
 date: 2016-07-17
-tags: [computers, hackintosh]
 ---
 
 <p>Hackintosh computers have been online for nearly a decade now (since the switch to Intel processors), allowing users to implement Mac OS X on non-Apple branded hardware, achieving performance close to or comparable to the latest Mac Pros for a fraction of the cost. In addition to installing Mac OS X on a custom-configured computer -- optimized for your needs -- dual-booting Windows on a Hackintosh allows for your computer to moonlight as a high-end gaming machine (depending on your hardware, of course).</p>
