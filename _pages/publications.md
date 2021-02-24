@@ -8,7 +8,7 @@ description:
 
 <b>7 first author, 32 co-author publications</b>
 
-Probablistic Association of Transients to their Hosts<br>
+Probabilistic Association of Transients to their Hosts<br>
 Aggarwal et al. 2021 | ApJ | <a href="https://arxiv.org/abs/2102.10627">arXiv:2102.10627</a>
 
 A Late-Time Galaxy-Targeted Search for the Radio Counterpart of GW190814<br>
