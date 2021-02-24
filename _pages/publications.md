@@ -4,7 +4,21 @@ title: Publications
 description: 
 ---
 
-<b>7 first author, 28 co-author publications</b>
+
+
+<b>7 first author, 32 co-author publications</b>
+
+Probablistic Association of Transients to their Hosts<br>
+Aggarwal et al. 2021 | ApJ | <a href="https://arxiv.org/abs/2102.10627">arXiv:2102.10627</a>
+
+A Late-Time Galaxy-Targeted Search for the Radio Counterpart of GW190814<br>
+Alexander et al. 2021 | Submitted to ApJ | <a href="https://arxiv.org/abs/2102.08957">arXiv:2102.08957</a>
+
+Radio Monitoring of the Tidal Disruption Event Swift J164449.3+573451. IV. Continued Fading and Non-relativistic Expansion<br>
+Cendes et al. 2021 | ApJ | <a ref="https://arxiv.org/abs/2011.00074">arXiv:2011.00074</a>
+
+The Broad-band Counterpart of the Short GRB 200522A at z=0.5536: A Luminous Kilonova or a Collimated Outflow with a Reverse Shock?<br>
+Fong et al. 2021 | ApJ | <a href="https://arxiv.org/abs/2008.08593">arXiv:2008.08593</a>
 
 Late-time Radio and Millimeter Observations of Superluminous Supernovae and Long Gamma-Ray Bursts: Implications for Obscured Star Formation, Central Engines, and Fast Radio Bursts<br>
 <b>T. Eftekhari et al. 2020</b> | Submitted to ApJ| <a href="https://arxiv.org/abs/2010.06612">arXiv:2010.06612</a>
