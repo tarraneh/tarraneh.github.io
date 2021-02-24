@@ -14,7 +14,7 @@ author:
   avatar: '/images/01.jpg'
 
 social:
-- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/etarraneh"}
+#- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/etarraneh"}
 #- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
 #- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
 #- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
