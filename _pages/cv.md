@@ -4,7 +4,7 @@ title: CV
 description: 
 ---
 ## CV
-<a href="files/cv.pdf">PDF</a>
+<a href="files/cv.pdf">PDF</a> (Updated January 2021) 
 
 <h3>Education</h3>
 2015 - Present | Ph.D. Astronomy and Astrophysics, Harvard University<br>
