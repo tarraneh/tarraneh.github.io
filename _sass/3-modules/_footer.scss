@@ -313,8 +313,8 @@
   }
 }
 
-.toggle-sun,
-.toggle-moon {
+.toggle-moon,
+.toggle-sun {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -323,7 +323,7 @@
   color: var(--light-gray);
 }
 
-.toggle-moon {
+.toggle-sun {
   transform: translateX(1px);
 }
 
