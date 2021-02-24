@@ -11,10 +11,10 @@ url: "https://tarraneheftekhari.com" # the base hostname & protocol for your sit
 author:
   name: Tarraneh Eftekhari
   bio: I am a radio astronomer at the Center for Astrophysics | Harvard & Smithsonian. 
-  avatar: '/images/01.jpg'
+  avatar: '/images/telescope.png'
 
-#social:
-#- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/etarraneh"}
+social:
+- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/etarraneh"}
 #- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
 #- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
 #- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
