@@ -231,22 +231,7 @@
   }
 }
 
-/* 404 */
-.error {
-  margin-bottom: 0;
-  text-align: center;
 
-  .error__title {
-    margin-bottom: 24px;
-    font-size: 100px;
-    line-height: 1;
-  }
-
-  .error__text {
-    margin-bottom: 48px;
-    color: var(--text-alt-color);
-  }
-  
   @media only screen and (max-width: $mobile) {
     .error__title {
       font-size: 68px;
