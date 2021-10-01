@@ -11,8 +11,8 @@ In my time off, I enjoy playing piano, strength training, and carpentry. Though 
 
 ## Contact Me
 
-CIERA, Northwestern University
-1800 Sherman Ave, Floor 8
+CIERA, Northwestern University<br>
+1800 Sherman Ave, Floor 8<br>
 Evanston, IL 60201
 
 E-mail: [teftekhari@northwestern.edu](mailto:teftekhari@northwestern.edu)  
