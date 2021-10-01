@@ -10,7 +10,7 @@ url: "https://tarraneheftekhari.com" # the base hostname & protocol for your sit
 # Author Settings
 author:
   name: Tarraneh Eftekhari
-  bio: I am a radio astronomer at the Center for Astrophysics | Harvard & Smithsonian. 
+  bio: I am a radio astronomer at Center for Inderdisciplinary Exploration and Research in Astrophysics. 
   avatar: '/images/telescope.png'
 
 #social:
@@ -28,7 +28,7 @@ author:
 # Hero Settings
 hero:
   hero__title: Tarraneh Efekhari
-  hero__description: Radio Astronomer and PhD Candidate studying energetic transients
+  hero__description: CIERA Postdoctoral Fellow studying energetic transients
   hero__image: '/images/telescope.png'
 
 
