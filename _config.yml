@@ -28,7 +28,7 @@ author:
 # Hero Settings
 hero:
   hero__title: Tarraneh Efekhari
-  hero__description: CIERA Postdoctoral Fellow studying energetic transients
+  hero__description: CIERA Postdoctoral Fellow<br> studying energetic transients
   hero__image: '/images/telescope.png'
 
 

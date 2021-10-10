@@ -4,9 +4,9 @@ title: Contact
 description: 
 ---
 ## Contact
-E-mail: [teftekhari@cfa.harvard.edu](mailto:teftekhari@cfa.harvard.edu)
+E-mail: E-mail: [teftekhari@northwestern.edu](mailto:teftekhari@northwestern.edu)  
 
 Address: <br>
-Harvard-Smithsonian Center for Astrophysics<br>
-60 Garden Street, MS-10<br>
-Cambridge, MA 02138
+CIERA, Northwestern University<br>
+1800 Sherman Ave, Floor 8<br>
+Evanston, IL 60201
