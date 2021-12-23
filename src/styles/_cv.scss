@@ -1,0 +1,39 @@
+#cv {
+  width: 50%;
+  margin-left: 400px;
+  padding-left:400px;
+  max-width: 100px;
+  @media only screen and (min-width: $cut) {
+    width: 80%;
+  }
+}
+
+.tech {
+  margin: 400px;
+}
+
+.contents {
+  text-align: left;
+  margin-left: 60%;
+}
+
+.user {
+  text-align: center;
+  font-size: 60px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  p {
+    font-size: 16px;
+  }
+  @media only screen and (min-width: $cut) {
+    flex-wrap: nowrap;
+    font-size: 75px;
+  }
+}
+
+.user-details {
+  text-align: left;
+  margin: 400px;
+}

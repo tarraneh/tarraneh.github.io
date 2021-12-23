@@ -1,29 +1,8 @@
-<!-- begin footer -->
 <footer class="footer">
-
-  <div class="footer__inner">
-    <div class="container">
-      <div class="row">
-        {% include footer-widgets/widget-info.html %}
-        {% include footer-widgets/widget-subscribe.html %}
-      </div>
-    </div>
-  </div>
-
-  <div class="container">
-    <div class="row">
-      <div class="col col-12">
-        <div class="footer__info">
-          <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.title}}</a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
-          <div class="toggle-theme">
-            <div class="toggle-sun"><i class="ion ion-ios-sunny"></i></div>
-            <div class="toggle-moon"><i class="ion ion-ios-moon"></i></div>
-            <div class="toggle-thumb"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
+    <p>&copy; {{site.username}}</p>
+    <p>Built with Jekyll by <a href="https://github.com/nrandecker">Nathan Randecker</a></p>
 </footer>
-<!-- end footer -->
+<script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script src="{{ "/assets/js/sweet-scroll.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+{% include google-analytics.html %}
