@@ -1,3 +1,8 @@
 _site
 .jekyll-metadata
 .DS_Store
+gulpfile.js
+node_modules/
+package.json
+yarn.lock
+.jekyll-cache/
