@@ -1,6 +1,6 @@
 # Site settings
 title: Tarraneh Eftekhari, Radio Astronomer
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tarraneheftekhari.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
@@ -9,7 +9,7 @@ user_description: I am a NASA Hubble Einstein Fellow and Radio Astronomer at Nor
 user_title: NASA Hubble Einstein Fellow
 email: teftekhari@northwestern.edu
 twitter_username: etarraneh
-github_username:  etarraneh
+github_username: etarraneh
 
 # Google-analytics
 google-analytics:
